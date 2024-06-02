@@ -1,3 +1,5 @@
+template: [astro-theme-cuctus](https://github.com/chrismwilliams/astro-theme-cactus)
+
 ### lazy load
 ```html
 <img src="image.jpg" loading="lazy" alt="portfolio image">
